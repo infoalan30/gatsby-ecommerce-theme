@@ -5,12 +5,12 @@ const Policy = (props) => {
   return (
     <div className={styles.root}>
       <div className={styles.section}>
-        <h3>1. Lorem Ipsum</h3>
+        <h3>1.</h3>
         <p>
-          Delaware limited liability company (The Sydney) collects personal
+          Guangdongweilunsixincailiaoyouxiangongsi company company (The Jawair) collects personal
           information that you voluntarily provide when applying or registering
           for an account with The Upside or making a purchase on The Upside
-          website; www.theupside.com (the Website).
+          website; www.kalvosrl.com (the Website).
         </p>
         <p>
           This Privacy Policy (Privacy Policy) outlines how your information is
@@ -27,7 +27,7 @@ const Policy = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h3>2. Lorem Ipsum</h3>
+        <h3>2.</h3>
         <p>
           Our Services, including but not limited to the registration of an
           account with us or placing of an order, is not intended to be used by
@@ -54,7 +54,7 @@ const Policy = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h3>3. Lorem Ipsum</h3>
+        <h3>3.</h3>
         <p>
           You must only use our Services in accordance with this Privacy Policy
           and any applicable law or regulations. You agree to refrain from
